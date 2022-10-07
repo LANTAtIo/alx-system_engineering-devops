@@ -1,1 +1,1 @@
-path name of the current working use the long format
+Display current directory contents in a long format
