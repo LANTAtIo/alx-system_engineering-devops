@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa /etc/passwd
+ls -lRa /etc/passwd |sort -n
